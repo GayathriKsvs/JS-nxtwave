@@ -1,1 +1,1 @@
-https://gayathriksvs.github.io/JS-nxtwave/
+https://gayathriksvs.github.io/JS-nxtwave/onclick_cat
